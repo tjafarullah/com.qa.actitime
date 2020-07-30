@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9759" started-at="2020-07-30T09:04:31Z" finished-at="2020-07-30T09:04:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9759" started-at="2020-07-30T09:04:31Z" finished-at="2020-07-30T09:04:41Z">
+      <class name="com.acti.base.DriverScript">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.acti.base.DriverScript@2b98378d]" name="initBrowser" duration-ms="9729" started-at="2020-07-30T05:04:32Z" finished-at="2020-07-30T05:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+      </class> <!-- com.acti.base.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
